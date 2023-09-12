@@ -1,0 +1,2 @@
+# OnuFind-Telnet
+针对华三Olt设备查找Onu编写的脚本，通过表格读取设备名称和IP，多线程同时telnet登录到设备查询
