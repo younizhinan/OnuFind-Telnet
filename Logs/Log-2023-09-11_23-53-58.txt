@@ -1,0 +1,8 @@
+INFO:root:10.18.3.30 - ---  0 entries found  ---
+INFO:root:10.18.3.154 - ---  0 entries found  ---
+INFO:root:10.18.3.26 - ---  0 entries found  ---
+INFO:root:10.18.3.2 - ---  0 entries found  ---
+INFO:root:10.18.3.86 - ---  0 entries found  ---
+INFO:root:10.18.3.90 - ---  0 entries found  ---
+INFO:root:10.18.3.162 - ---  0 entries found  ---
+INFO:root:10.18.3.46 - MAC             LOID                      LLID    Dist(M)  Port             Model/Version   Sft/Epm    State     Aging
